@@ -1,0 +1,61 @@
+{
+  "title": "History of AI",
+  "sections": [
+    {
+      "events": [
+        {
+          "year": "1956",
+          "title": "Term ‘Artificial Intelligence’ is coined",
+          "description": "The term \"Artificial Intelligence\" was coined in 1955 by American computer scientist John McCarthy in a written proposal for the historic Dartmouth Summer Research Project. This landmark summer workshop, held in 1956, gathered top researchers and officially established AI as an independent academic and scientific field.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "1958",
+          "title": "‘Neural Network’ introduced",
+          "description": "In 1958, psychologist Frank Rosenblatt introduced the perceptron, one of the first artificial neural networks. It could learn to sort inputs into categories by adjusting the strength of its connections from examples. Rosenblatt first ran it as a simulation on an IBM 704 computer and later built it as a dedicated machine, laying early groundwork for modern deep learning.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "1966",
+          "title": "Eliza: first chatbot",
+          "description": "Eliza was created at MIT by computer scientist Joseph Weizenbaum. It used simple pattern matching to reflect a person's words back as questions, and its best-known script imitated a psychotherapist. Even though it understood nothing, many users felt it was listening to them, a reaction now called the ELIZA effect.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "1997",
+          "title": "Deep Blue beats Garry Kasparov",
+          "description": "In May 1997, IBM's Deep Blue supercomputer defeated world chess champion Garry Kasparov in a six-game match, winning 3.5 to 2.5. It was the first time a computer beat a reigning world champion in a match under standard tournament conditions.",
+          "image": "/image/1956.jpg"
+        }
+      ]
+    },
+    {
+      "events": [
+        {
+          "year": "2011",
+          "title": "Apple launches Siri",
+          "description": "Apple introduced Siri as a built-in voice assistant with the iPhone 4S in October 2011. Users could speak to their phone to send messages, set reminders and search, which brought voice-based AI into everyday life for millions of people.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "2014",
+          "title": "Facebook launches ‘DeepFace’",
+          "description": "DeepFace was a deep neural network built by Facebook's AI research team to recognise faces in photos. It was trained on millions of face images and reached about 97% accuracy on a standard benchmark, very close to human performance.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "2016",
+          "title": "AlphaGo beats Lee Sedol",
+          "description": "In March 2016, Google DeepMind's AlphaGo defeated Lee Sedol, one of the world's best Go players, four games to one in Seoul. Go has far more possible positions than chess, so the win was seen as a major breakthrough for AI.",
+          "image": "/image/1956.jpg"
+        },
+        {
+          "year": "2022",
+          "title": "ChatGPT (GPT-3.0)",
+          "description": "OpenAI released ChatGPT to the public in November 2022. Built on its GPT-3.5 language models, it let anyone hold a natural conversation with an AI, write text and answer questions. It reached a huge audience within weeks and started the current wave of generative AI.",
+          "image": "/image/1956.jpg"
+        }
+      ]
+    }
+  ]
+}

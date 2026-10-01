@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>History of AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header><h1 id="title">History of AI</h1></header>
+
+    <main class="stage">
+      <div class="track" id="track">
+        <div class="detail" id="detail" aria-live="polite">
+          <div class="box">
+            <div class="box-head"><span id="d-title"></span><span class="box-year" id="d-year"></span></div>
+            <div class="box-body">
+              <p class="box-text" id="d-text"></p>
+              <img class="box-img" id="d-img" alt="" hidden>
+            </div>
+          </div>
+        </div>
+        <!-- sections are generated from data.json -->
+      </div>
+    </main>
+
+    <nav class="nav" aria-label="Timeline sections">
+      <button id="prev" disabled>Previous</button>
+      <button id="next">Next</button>
+    </nav>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
